@@ -18,7 +18,7 @@
 | Entity number | Pending acceptance |
 | Formation date | Pending acceptance |
 
-The receipt confirms payment, not acceptance. The fee is logged on the `Setup spend` sheet of the [bookkeeping workbook](../../04%20Finance/Digifender%20Bookkeeping.xlsx); fill in which owner paid and add the processor fees once the card statement shows them.
+The receipt confirms payment, not acceptance. The fee is logged on the `Setup spend` sheet of the [bookkeeping workbook](../../04%20Finance/Digifender%20Bookkeeping.xlsx); Ender paid from the owners' joint personal account. Add the processor fees once the card statement shows them.
 
 ## Once Idaho accepts the filing
 
