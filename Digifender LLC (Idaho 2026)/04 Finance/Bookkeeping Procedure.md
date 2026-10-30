@@ -1,6 +1,6 @@
 # Digifender bookkeeping procedure
 
-**Status:** Idaho LLC filing pending, as reported by the owners on 1 October 2026. Stripe Treasury was selected as the planned financial account, but no EIN or opened account has been documented in this folder. This is a working record system, not a filed tax return.
+**Status:** Idaho LLC approved 30 October 2026 (file # 7029055, filing date 1 October 2026). Stripe Treasury was selected as the planned financial account, but no EIN or opened account has been documented in this folder. This is a working record system, not a filed tax return.
 
 ## Low cost setup
 
@@ -29,10 +29,10 @@ Give Codex the new statements, processor reports, receipts, and the current work
 
 At year end, preserve the closed workbook and statements. If the two-member LLC uses partnership taxation and has income or deductible/creditable expenditures, Form 1065 and two Schedules K-1 will generally need preparation. A domestic partnership with neither income nor such expenditures may be excepted, so determine the requirement from the actual year, not projected profit. [IRS Form 1065 instructions](https://www.irs.gov/instructions/i1065)
 
-## What to do while formation is pending
+## Next formation steps
 
-- Save the filing receipt, accepted certificate, and formation date in `01 Formation/Idaho/` when issued.
-- After acceptance, complete the EIN application using the existing worksheet; save the IRS confirmation in `03 Company Records/Tax IDs/`.
+- Done: filing receipt, accepted certificate, and formation date saved in `01 Formation/Idaho/`.
+- Complete the EIN application using the existing worksheet; save the IRS confirmation in `03 Company Records/Tax IDs/`.
 - Open the selected Stripe Treasury business financial account after the EIN is available, and save its governing account agreement. Record opening deposits by owner. Decide the Stripe customer payment and billing setup before first paid sales.
 - Finish and sign the 50/50 operating agreement, including contributions, distributions, authority, and deadlock rules, before substantial activity.
 - Before first paid sales, review sales tax treatment for the specific SaaS/AI products and customer states. Before working from South Korea, confirm any applicable USFK/SOFA and host-country work rules.
