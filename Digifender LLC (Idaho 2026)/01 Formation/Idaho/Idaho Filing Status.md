@@ -1,6 +1,6 @@
 # Idaho Certificate of Organization: filing status
 
-**Updated:** 30 October 2026  
+**Updated:** 30 October 2026 (EIN added)  
 **Status:** **Approved.** Digifender LLC is an Idaho limited liability company, status Active-Existing, perpetual duration. Idaho issued the Filing Acknowledgment on 30 October 2026.
 
 | Field | Record |
@@ -40,7 +40,9 @@ The accepted record matches the draft on name, registered agent, addresses, and 
 
 ## Next steps
 
-1. Apply for the EIN using the [EIN worksheet](../../03%20Company%20Records/Tax%20IDs/EIN%20Application%20Worksheet.docx), with Ender as responsible party, file # 7029055, and formation date 1 October 2026. Save the IRS confirmation in `03 Company Records/Tax IDs/`.
+1. Done 30 October 2026: the IRS assigned the EIN (Notice CP 575 G, name control DIGI). The EIN number and the IRS notice are kept in the owners' private records, **not in this repository, which is public**.
+
+   **Tax classification to resolve:** the IRS record lists Digifender LLC as a **single-member LLC (disregarded entity) with Ender as sole member**. This workspace and the operating agreement draft plan a 50/50 two-member LLC, which the IRS treats as a partnership (Form 1065 and K-1s) by default. If Ender and Alexa are spouses who own the LLC as community property, Idaho being a community property state, IRS Rev. Proc. 2002-69 lets them choose disregarded-entity treatment instead. Otherwise the IRS classification should be corrected. Settle this with a tax preparer before the first return and before signing the operating agreement. [IRS: LLC filing as a corporation or partnership](https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership)
 2. Open Stripe Treasury under the exact name "Digifender LLC" and the new EIN; save the account agreement in `04 Finance/`.
 3. File the Whumpo assumed business name using the [ABN worksheet](Whumpo%20Assumed%20Business%20Name%20Worksheet.md) before transacting as Whumpo.
 4. Finish and sign the operating agreement.
