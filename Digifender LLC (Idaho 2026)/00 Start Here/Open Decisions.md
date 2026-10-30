@@ -1,7 +1,7 @@
 # Digifender LLC: open decisions
 
-**Updated:** 29 October 2026  
-**Status:** Idaho Certificate of Organization submitted and paid on 29 October 2026 (receipt #1410843), pending state review; see [Idaho Filing Status](../01%20Formation/Idaho/Idaho%20Filing%20Status.md). Stripe Treasury is the planned financial account, not yet documented as opened. Ender Raven Solomon Kaina and Alexa Faith Kaina intend equal ownership; Ender now requests final business decision authority while Alexa's work duties remain open. Both are named as governors in the pending certificate draft, so the accepted record and operating agreement must be reconciled. Digifender's product is Whumpo at whumpo.com; another agent is developing it in the separate Whumpo repository. See [Owner Decision Record](../02%20Governance/Owner%20Decision%20Record.md).
+**Updated:** 30 October 2026  
+**Status:** Idaho LLC approved: Active-Existing, file # 7029055, filing date 1 October 2026, annual report due 31 October 2027; see [Idaho Filing Status](../01%20Formation/Idaho/Idaho%20Filing%20Status.md).
 
 **Formation confirmation, 2 October 2026:** Ender confirmed that the Idaho LLC filing is still pending and directed that public materials continue to use the name “Digifender LLC.” This is a naming direction, not evidence of an accepted filing or an answer identifying the current legal operator of the live websites. Keep the acceptance notice and file number as the gate for treating the LLC as formed. Idaho states that an LLC must file a Certificate of Organization to have legal existence. [Idaho Secretary of State](https://sos.idaho.gov/business-resources/business-entities/)
 
@@ -15,9 +15,9 @@
 - **Ownership of work:** Digifender LLC is intended to own existing and future Whumpo code outright. Confirm the current legal title to code and related domains/branding/accounts, then complete the [IP assignment draft](../02%20Governance/Whumpo%20IP%20Assignment%20Draft.md) and any account transfers. Personal licensing is not planned absent a concrete tax/business reason. [U.S. Copyright Office](https://www.copyright.gov/title17/92chap2.html)
 - **Profit sharing and distributions:** Profits and cash distributions are 50/50; Ender decides whether and when the LLC makes a lawful distribution. The operating agreement draft uses 50/50 losses subject to required contributed-property tax allocations. A distribution is separate from an expense for bookkeeping.
 
-## 2. After Idaho accepts the LLC
+## 2. Now that Idaho has accepted the LLC
 
-- Save the accepted certificate, filing number, formation date, and receipt in `01 Formation/Idaho/`.
+- Done 30 October 2026: accepted certificate, file # 7029055, formation date, and receipt saved in `01 Formation/Idaho/`.
 - Complete the EIN application using the existing worksheet and Ender as the designated responsible party. Save the IRS confirmation in `03 Company Records/Tax IDs/`. A domestic two-member LLC is classified as a partnership by default for federal tax purposes unless it elects another classification. [IRS Form SS-4 instructions](https://www.irs.gov/instructions/iss4), [Form 1065 instructions](https://www.irs.gov/instructions/i1065)
 - Open Stripe Treasury under the LLC's exact accepted legal name and EIN. Save the account terms, account opening record, and first statement in `04 Finance/`. Give both members access and set Ender's approval role using the actual available controls. [Stripe Treasury](https://stripe.com/treasury)
 
@@ -38,4 +38,4 @@ The [Operating Agreement Draft](../02%20Governance/Operating%20Agreement%20Draft
 ## 4. Later, once activity exists
 
 - Revisit insurance, state registrations, and a professional tax preparer based on actual product, customers, and revenue.
-- Calendar the Idaho annual report after the state record is accepted. [Idaho Secretary of State business FAQ](https://sos.idaho.gov/business-resources/business-faq/)
+- File the Idaho annual report by 31 October 2027 (then each October). [Idaho Secretary of State business FAQ](https://sos.idaho.gov/business-resources/business-faq/)

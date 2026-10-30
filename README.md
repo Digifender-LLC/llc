@@ -1,6 +1,6 @@
 # Digifender LLC
 
-Business and legal records for Digifender LLC (Idaho, formation pending as of October 2026).
+Business and legal records for Digifender LLC (Idaho LLC, file # 7029055, formed 1 October 2026).
 
 Start with [`Digifender LLC (Idaho 2026)/00 Start Here/README.md`](<Digifender LLC (Idaho 2026)/00 Start Here/README.md>).
 
