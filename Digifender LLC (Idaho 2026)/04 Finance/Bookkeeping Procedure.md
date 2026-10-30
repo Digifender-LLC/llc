@@ -1,6 +1,6 @@
 # Digifender bookkeeping procedure
 
-**Status:** Idaho LLC approved 30 October 2026 (file # 7029055, filing date 1 October 2026). Stripe Treasury was selected as the planned financial account, but no EIN or opened account has been documented in this folder. This is a working record system, not a filed tax return.
+**Status:** Idaho LLC approved 30 October 2026 (file # 7029055, filing date 1 October 2026). Stripe Treasury was selected as the planned financial account, and the EIN was issued 30 October 2026 (kept privately), but no opened account has been documented in this folder. This is a working record system, not a filed tax return.
 
 ## Low cost setup
 
@@ -32,7 +32,7 @@ At year end, preserve the closed workbook and statements. If the two-member LLC 
 ## Next formation steps
 
 - Done: filing receipt, accepted certificate, and formation date saved in `01 Formation/Idaho/`.
-- Complete the EIN application using the existing worksheet; save the IRS confirmation in `03 Company Records/Tax IDs/`.
+- Done: EIN issued 30 October 2026. Resolve the IRS single-member classification versus the planned partnership treatment before the first return (see `00 Start Here/README.md`).
 - Open the selected Stripe Treasury business financial account after the EIN is available, and save its governing account agreement. Record opening deposits by owner. Decide the Stripe customer payment and billing setup before first paid sales.
 - Finish and sign the 50/50 operating agreement, including contributions, distributions, authority, and deadlock rules, before substantial activity.
 - Before first paid sales, review sales tax treatment for the specific SaaS/AI products and customer states. Before working from South Korea, confirm any applicable USFK/SOFA and host-country work rules.
