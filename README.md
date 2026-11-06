@@ -9,7 +9,7 @@ Start with [`Digifender LLC (Idaho 2026)/00 Start Here/README.md`](<Digifender L
 | 00 Start Here | Overview, open decisions, software plan, portfolio connections |
 | 01 Formation | Idaho Certificate of Organization draft, filing worksheets |
 | 02 Governance | Operating agreement, owner decision record, IP assignment |
-| 03 Company Records | EIN / SS-4 drafts |
+| 03 Company Records | EIN / SS-4 drafts, D-U-N-S number |
 | 04 Finance | Banking comparison, bookkeeping workbook and procedure |
 | 05 Brand Assets | Logos, symbols, fonts |
 | 06 Legal Policies | Website and product privacy, terms, cookie and copyright policies |
