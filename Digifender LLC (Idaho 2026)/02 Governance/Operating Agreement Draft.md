@@ -53,7 +53,7 @@ Complete the Idaho formation details, asset schedule, succession section, and me
 
 5.2 **Books.** Keep Company and household finances separate. Record gross customer receipts, processor fees, refunds, owner contributions, distributions, assets and liabilities, with original statements and receipts. Ender reviews and signs off on each monthly close. The Company may use the existing Digifender bookkeeping workbook while volume and complexity remain manageable.
 
-5.3 **Tax status and year.** Unless a valid election changes its classification, the two-member Company will use the default federal partnership classification. The intended tax year is the calendar year, subject to applicable tax rules. The Company will select its partnership representative when preparing the first required federal partnership return.
+5.3 **Tax status and year.** Ender and Alexa are married and intend to own the Company as community property, and they intend the Company to be treated as a disregarded entity for federal income tax purposes under IRS Rev. Proc. 2002-69, which matches the IRS record from the EIN application (one return, reported by the couple, with no Form 1065). **[Confirm with a tax preparer that this election applies and was made; if not, the Company is a partnership by default and the allocation terms in sections 2.2 and 2.3 and the partnership representative language apply.]** The intended tax year is the calendar year, subject to applicable tax rules. If the Company is instead taxed as a partnership, it will select its partnership representative when preparing the first required federal partnership return.
 
 ## 6. Whumpo intellectual property
 
