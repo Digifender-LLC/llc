@@ -33,7 +33,7 @@
 
 ## Current governance draft
 
-**9 November 2026:** a [single-member version](../02%20Governance/Operating%20Agreement%20Draft%20-%20Single%20Member.md) was drafted to match the IRS record. Decide which structure applies (single-member or the 50/50 draft below) before anything is signed; its closing section lists the open points. Stripe Treasury has been opened. Ender has decided no Whumpo assumed business name filing is needed (unconfirmed, see the ABN worksheet).
+**9 November 2026:** Ender confirmed the 50/50 structure (married owners, community property, disregarded-entity treatment under Rev. Proc. 2002-69, which matches the IRS record). Confirm the election with a tax preparer. Stripe Treasury has been opened. Ender has decided no Whumpo assumed business name filing is needed (unconfirmed, see the ABN worksheet).
 
 The [Operating Agreement Draft](../02%20Governance/Operating%20Agreement%20Draft.md) incorporates the settled ownership, capital, control, banking and distribution terms. Complete the asset schedule and succession/exit terms before either member signs it.
 
